@@ -1,2 +1,2 @@
-# -examples_of_work_in_the_Internet-revolution
+# examples_of_work_in_the_Internet-revolution
 В этом репозитории представлены примеры скриптов на языке python и sql, также примеры дагов, которые я создавал в процессе работы в компании "Интернет-революция".
